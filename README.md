@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MIKEPENCE10CENT
+- 👋 Hi, I’m @MIKEPENCE10CENT aka Aditya 
 - 👀 I’m student of Electronics and Communication 1st year
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 MIKEPENCE10CENT/MIKEPENCE10CENT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MIKEPENCE10CENT aka Aditya 
-- 👀 I’m student of Electronics and Communication 1st year
+- 👀 I’m student of Electronics and Communication 2nd year
 - 🌱 I’m currently learning Python 
 
 <!---
